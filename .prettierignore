@@ -1,0 +1,14 @@
+.git
+.idea/*
+.vscode/*
+.DS_Store
+.editorconfig
+.gitignore
+.npmrc
+.nvmrc
+.prettierignore
+examples
+dist
+yarn.lock
+LICENSE
+.yarnrc
